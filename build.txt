@@ -1,0 +1,9 @@
+displayName = Trelamium 2 Music
+author = iFlicky, musicman
+version = 0.1
+modReferences = TrelamiumTwo
+homepage = 
+hideCode = true
+hideResources = true
+includeSource = false
+includePDB = false
